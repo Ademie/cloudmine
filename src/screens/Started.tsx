@@ -8,7 +8,7 @@ const Started: React.FC = () => {
     <Box
       position="relative"
       height={{ base: "auto", md: "100vh" }} // Adjust height on smaller screens
-      bgImage="url('src/assets/get_started.png')"
+      bgImage="url('public/get_started.png')"
       bgSize="cover"
       bgPos="center"
       bgAttachment={{ base: "scroll", md: "fixed" }} // Disable fixed on mobile for better performance

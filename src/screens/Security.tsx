@@ -6,7 +6,7 @@ const SecuritySection: React.FC = () => {
     <Box
       position="relative"
       height="100vh"
-      bgImage="url('src/assets/minerwolf_security.png')"
+      bgImage="url('public/minerwolf_security.png')"
       bgSize="cover"
       bgPos="center"
       bgAttachment="fixed"

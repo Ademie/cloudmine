@@ -6,7 +6,7 @@ import { Box, Flex, Heading, Text, Button, Input } from "@chakra-ui/react";
 //     <Box
 //       position="relative"
 //       height="100vh"
-//       bgImage="url('src/assets/join_now.png')"
+//       bgImage="url('public/join_now.png')"
 //       bgSize="cover"
 //       bgPos="center"
 //       bgAttachment="fixed"
@@ -87,7 +87,7 @@ const Join: React.FC = () => {
     <Box
       position="relative"
       height="100vh"
-      bgImage="url('src/assets/join_now.png')"
+      bgImage="url('public/join_now.png')"
       bgSize="cover"
       bgPos="center"
       bgAttachment="fixed"

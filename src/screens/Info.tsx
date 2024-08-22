@@ -9,7 +9,7 @@ const Info: React.FC = () => {
       paddingX={{ base: "1rem", md: "2rem" }}
       bg="gray.800"
       color="white"
-      bgImage="url('/src/assets/about_minerwolf.png')"
+      bgImage="url('public/about_minerwolf.png')"
       bgSize="cover"
       bgPos="center"
       bgAttachment="fixed"
