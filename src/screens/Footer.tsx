@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
           mb={{ base: 4, md: 0 }}
         >
           <Image
-            src="public/footer_logo.png"
+            src="//footer_logo.png"
             alt="MinerWolf Logo"
             height={{ base: "40px", md: "80px" }}
             mr={4}
@@ -33,14 +33,14 @@ const Footer: React.FC = () => {
         <Flex justify={{ base: "center", md: "flex-end" }}>
           <Link href="https://www.apple.com/app-store/" isExternal mr={4}>
             <Image
-              src="public/appstore.png"
+              src="//appstore.png"
               alt="Download on the App Store"
               height="60px"
             />
           </Link>
           <Link href="https://play.google.com/store" isExternal>
             <Image
-              src="public/playstore.png"
+              src="//playstore.png"
               alt="Get it on Google Play"
               height="60px"
             />

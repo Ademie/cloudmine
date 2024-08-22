@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
     <MotionBox
       height="100vh"
       position="relative"
-      bgImage="url('public/welcome_photo.png')"
+      bgImage="url('//welcome_photo.png')"
       bgSize="cover"
       bgPos="center"
       bgAttachment="fixed"

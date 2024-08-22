@@ -37,7 +37,7 @@ const Header: React.FC = () => {
         >
           <Link>
             <Image
-              src="public/minerwolf_logox.png"
+              src="//minerwolf_logox.png"
               alt="MinerWolf Logo"
               height="50px"
             />

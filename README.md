@@ -1,1 +1,1 @@
-always move images to public folder for deployment
+always move images to / folder for deployment
